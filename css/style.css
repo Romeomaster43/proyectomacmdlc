@@ -2,7 +2,7 @@
     text-align: center;
     color: blueviolet;
 }
-.titulo{
+.titulo,.Nombre{
     text-align: center;
     color: blue;
 }
@@ -19,4 +19,8 @@
     text-align: center;
     color: rgb(88,88,89);
     margin-top: 100px;
+}
+.foto{
+    display: flex;
+    justify-content: center;
 }
